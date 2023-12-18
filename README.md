@@ -1,6 +1,6 @@
 # TravelBee
 
-TravelBee is a website designed to make travel planning easy and convenient. Users can explore travel packages, select destinations, choose dates, and book their journeys seamlessly.
+At TravelHub, we believe in turning your travel dreams into reality. Whether you're an adventure seeker, a luxury traveler, or someone looking for a quick getaway, we've got you covered. Our platform is designed to simplify the travel booking process, offering a one-stop solution for flights, hotels, and exclusive travel packages.
 Preview the live template here: [TravelBee Live Demo](https://travel-bee-1.netlify.app/)
 
 ## Table of Contents
